@@ -1,0 +1,146 @@
+[
+  {
+    "id": "case-001",
+    "exposure": 77212,
+    "signal": 0.843,
+    "urgency": 8
+  },
+  {
+    "id": "case-002",
+    "exposure": 34658,
+    "signal": 0.297,
+    "urgency": 5
+  },
+  {
+    "id": "case-003",
+    "exposure": 2862,
+    "signal": 0.48,
+    "urgency": 3
+  },
+  {
+    "id": "case-004",
+    "exposure": 67753,
+    "signal": 0.265,
+    "urgency": 8
+  },
+  {
+    "id": "case-005",
+    "exposure": 39877,
+    "signal": 0.519,
+    "urgency": 5
+  },
+  {
+    "id": "case-006",
+    "exposure": 72929,
+    "signal": 0.179,
+    "urgency": 6
+  },
+  {
+    "id": "case-007",
+    "exposure": 41871,
+    "signal": 0.259,
+    "urgency": 6
+  },
+  {
+    "id": "case-008",
+    "exposure": 35229,
+    "signal": 0.313,
+    "urgency": 4
+  },
+  {
+    "id": "case-009",
+    "exposure": 83869,
+    "signal": 0.689,
+    "urgency": 9
+  },
+  {
+    "id": "case-010",
+    "exposure": 71511,
+    "signal": 0.316,
+    "urgency": 9
+  },
+  {
+    "id": "case-011",
+    "exposure": 84981,
+    "signal": 0.4,
+    "urgency": 6
+  },
+  {
+    "id": "case-012",
+    "exposure": 61750,
+    "signal": 0.773,
+    "urgency": 9
+  },
+  {
+    "id": "case-013",
+    "exposure": 38491,
+    "signal": 0.696,
+    "urgency": 3
+  },
+  {
+    "id": "case-014",
+    "exposure": 47788,
+    "signal": 0.798,
+    "urgency": 3
+  },
+  {
+    "id": "case-015",
+    "exposure": 84031,
+    "signal": 0.506,
+    "urgency": 1
+  },
+  {
+    "id": "case-016",
+    "exposure": 21530,
+    "signal": 0.155,
+    "urgency": 8
+  },
+  {
+    "id": "case-017",
+    "exposure": 4408,
+    "signal": 0.184,
+    "urgency": 2
+  },
+  {
+    "id": "case-018",
+    "exposure": 74141,
+    "signal": 0.181,
+    "urgency": 7
+  },
+  {
+    "id": "case-019",
+    "exposure": 27736,
+    "signal": 0.768,
+    "urgency": 1
+  },
+  {
+    "id": "case-020",
+    "exposure": 31756,
+    "signal": 0.795,
+    "urgency": 5
+  },
+  {
+    "id": "case-021",
+    "exposure": 88213,
+    "signal": 0.501,
+    "urgency": 3
+  },
+  {
+    "id": "case-022",
+    "exposure": 71801,
+    "signal": 0.656,
+    "urgency": 3
+  },
+  {
+    "id": "case-023",
+    "exposure": 19756,
+    "signal": 0.815,
+    "urgency": 5
+  },
+  {
+    "id": "case-024",
+    "exposure": 15470,
+    "signal": 0.265,
+    "urgency": 8
+  }
+]
