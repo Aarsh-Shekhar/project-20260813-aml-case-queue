@@ -1,0 +1,7 @@
+{
+  "name": "operator handoff",
+  "domain": "fintech compliance",
+  "score_floor": 0.44,
+  "review_window_hours": 24,
+  "expected_action": "monitor"
+}
